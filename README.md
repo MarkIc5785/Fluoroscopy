@@ -1,5 +1,5 @@
 # Fluoroscopy
-A chest stat simulator for Modpack-No flesh in chest
+A chest stat simulator for Modpack-No flesh in chest.
 Without third-party packages, should work for naive Python (and easy to pack up)
 
 TODO:
