@@ -9,3 +9,6 @@ TODO:
  - A easier way to update contents? (Automated?)
  - Optimize the organ selector window (Filter with type/name)
  - A switch for DLC
+ - Save & Load
+ - Compare builds
+ - A normal set for normal human
